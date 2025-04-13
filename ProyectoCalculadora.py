@@ -1,6 +1,7 @@
 from tkinter import *
+
 ventana = Tk()
-ventana.title("Calculadora")
+ventana.title("Calculadora Python Mamadisima")
 
 i = 0
 
